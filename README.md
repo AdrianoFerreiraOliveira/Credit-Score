@@ -34,3 +34,6 @@ que possuem mais movimentação em emprego e não agregam um maior tempo de empr
 >Tecnologia utilizada
 <img align="center" alt="Adriano-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
 
+Inicialmente foi utilizado o Anaconda entretanto após checar a facilidade foi utilizado o Visual Studio code + extensão para o Jupyter notebook.
+![image](https://user-images.githubusercontent.com/105682437/194677106-1e5cdccd-1ccd-4a88-99e8-445aff8f91ce.png)
+
